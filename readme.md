@@ -5,6 +5,8 @@
 
 # Firmata.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/firmata.js.svg)](https://greenkeeper.io/)
+
 [Firmata protocol](https://github.com/firmata/protocol) implementation for programmatic interaction with Arduino and Arduino compatible development boards.
 
 # Install
